@@ -1,0 +1,11 @@
+{
+  "algorithms": {
+    "RandomForestRegressor": {
+      "is_selected": true,
+      "min_trees": 10,
+      "max_trees": 50,
+      "min_depth": 2,
+      "max_depth": 5
+    }
+  }
+}
